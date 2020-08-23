@@ -43,6 +43,12 @@
             this.label5 = new System.Windows.Forms.Label();
             this.btnReservar = new System.Windows.Forms.Button();
             this.dgReservacion = new System.Windows.Forms.DataGridView();
+            this.id = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Cliente = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Rampa = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Horario = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Fecha = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Observaciones = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.label6 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
@@ -53,12 +59,6 @@
             this.txtObservacion = new System.Windows.Forms.TextBox();
             this.btnCancelarReserva = new System.Windows.Forms.Button();
             this.label10 = new System.Windows.Forms.Label();
-            this.id = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Cliente = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Rampa = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Horario = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Fecha = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Observaciones = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dgReservacion)).BeginInit();
             this.SuspendLayout();
             // 
@@ -102,7 +102,7 @@
             // txtCliente
             // 
             this.txtCliente.BackColor = System.Drawing.Color.White;
-            this.txtCliente.Font = new System.Drawing.Font("Agency FB", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtCliente.Font = new System.Drawing.Font("Trebuchet MS", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtCliente.Location = new System.Drawing.Point(218, 102);
             this.txtCliente.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtCliente.Name = "txtCliente";
@@ -112,7 +112,7 @@
             // 
             // txtCI
             // 
-            this.txtCI.Font = new System.Drawing.Font("Agency FB", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtCI.Font = new System.Drawing.Font("Trebuchet MS", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtCI.Location = new System.Drawing.Point(564, 102);
             this.txtCI.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtCI.MaxLength = 9;
@@ -250,6 +250,48 @@
             this.dgReservacion.Size = new System.Drawing.Size(609, 114);
             this.dgReservacion.TabIndex = 23;
             // 
+            // id
+            // 
+            this.id.HeaderText = "id";
+            this.id.Name = "id";
+            this.id.ReadOnly = true;
+            this.id.Width = 40;
+            // 
+            // Cliente
+            // 
+            this.Cliente.HeaderText = "Cliente";
+            this.Cliente.Name = "Cliente";
+            this.Cliente.ReadOnly = true;
+            this.Cliente.Width = 120;
+            // 
+            // Rampa
+            // 
+            this.Rampa.HeaderText = "Producto";
+            this.Rampa.Name = "Rampa";
+            this.Rampa.ReadOnly = true;
+            this.Rampa.Width = 80;
+            // 
+            // Horario
+            // 
+            this.Horario.HeaderText = "Horario";
+            this.Horario.Name = "Horario";
+            this.Horario.ReadOnly = true;
+            this.Horario.Width = 80;
+            // 
+            // Fecha
+            // 
+            this.Fecha.HeaderText = "Fecha";
+            this.Fecha.Name = "Fecha";
+            this.Fecha.ReadOnly = true;
+            this.Fecha.Width = 80;
+            // 
+            // Observaciones
+            // 
+            this.Observaciones.HeaderText = "Cantidad";
+            this.Observaciones.Name = "Observaciones";
+            this.Observaciones.ReadOnly = true;
+            this.Observaciones.Width = 150;
+            // 
             // label6
             // 
             this.label6.AutoSize = true;
@@ -366,48 +408,6 @@
             this.label10.Size = new System.Drawing.Size(125, 24);
             this.label10.TabIndex = 33;
             this.label10.Text = "VER PEDIDOS";
-            // 
-            // id
-            // 
-            this.id.HeaderText = "id";
-            this.id.Name = "id";
-            this.id.ReadOnly = true;
-            this.id.Width = 40;
-            // 
-            // Cliente
-            // 
-            this.Cliente.HeaderText = "Cliente";
-            this.Cliente.Name = "Cliente";
-            this.Cliente.ReadOnly = true;
-            this.Cliente.Width = 120;
-            // 
-            // Rampa
-            // 
-            this.Rampa.HeaderText = "Producto";
-            this.Rampa.Name = "Rampa";
-            this.Rampa.ReadOnly = true;
-            this.Rampa.Width = 80;
-            // 
-            // Horario
-            // 
-            this.Horario.HeaderText = "Horario";
-            this.Horario.Name = "Horario";
-            this.Horario.ReadOnly = true;
-            this.Horario.Width = 80;
-            // 
-            // Fecha
-            // 
-            this.Fecha.HeaderText = "Fecha";
-            this.Fecha.Name = "Fecha";
-            this.Fecha.ReadOnly = true;
-            this.Fecha.Width = 80;
-            // 
-            // Observaciones
-            // 
-            this.Observaciones.HeaderText = "Cantidad";
-            this.Observaciones.Name = "Observaciones";
-            this.Observaciones.ReadOnly = true;
-            this.Observaciones.Width = 150;
             // 
             // FrmReservaciones
             // 

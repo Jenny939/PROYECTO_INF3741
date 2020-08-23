@@ -20,7 +20,7 @@ namespace Taller.Controlador
                 db.Configuration.LazyLoadingEnabled = false;
                 var lst = from d in db.usuario
                           select d;
-                lst = lst.OrderBy(u => u.nombre);// funcion par ordenar  [.OrderBy | OrderByDescending]
+                lst = lst.OrderBy(u => u.id);// funcion par ordenar  [.OrderBy | OrderByDescending]
                 listaUsuario = lst.ToList();
 
             }

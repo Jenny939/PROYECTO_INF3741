@@ -214,9 +214,9 @@
             this.lblApMaterno.ForeColor = System.Drawing.Color.Black;
             this.lblApMaterno.Location = new System.Drawing.Point(187, 175);
             this.lblApMaterno.Name = "lblApMaterno";
-            this.lblApMaterno.Size = new System.Drawing.Size(94, 18);
+            this.lblApMaterno.Size = new System.Drawing.Size(59, 18);
             this.lblApMaterno.TabIndex = 46;
-            this.lblApMaterno.Text = "AP. MATERNO:";
+            this.lblApMaterno.Text = "materno";
             // 
             // lblApPaterno
             // 
@@ -226,18 +226,18 @@
             this.lblApPaterno.ForeColor = System.Drawing.Color.Black;
             this.lblApPaterno.Location = new System.Drawing.Point(187, 138);
             this.lblApPaterno.Name = "lblApPaterno";
-            this.lblApPaterno.Size = new System.Drawing.Size(91, 18);
+            this.lblApPaterno.Size = new System.Drawing.Size(61, 18);
             this.lblApPaterno.TabIndex = 45;
-            this.lblApPaterno.Text = "AP. PATERNO:";
+            this.lblApPaterno.Text = "paterno:";
             this.lblApPaterno.Click += new System.EventHandler(this.lblApPaterno_Click);
             // 
             // btnCambiarPassword
             // 
             this.btnCambiarPassword.BackColor = System.Drawing.Color.White;
-            this.btnCambiarPassword.Font = new System.Drawing.Font("Trebuchet MS", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCambiarPassword.Location = new System.Drawing.Point(784, 365);
+            this.btnCambiarPassword.Font = new System.Drawing.Font("Consolas", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCambiarPassword.Location = new System.Drawing.Point(797, 332);
             this.btnCambiarPassword.Name = "btnCambiarPassword";
-            this.btnCambiarPassword.Size = new System.Drawing.Size(140, 27);
+            this.btnCambiarPassword.Size = new System.Drawing.Size(123, 39);
             this.btnCambiarPassword.TabIndex = 54;
             this.btnCambiarPassword.Text = "CAMBIAR CONTRASEÑA";
             this.btnCambiarPassword.UseVisualStyleBackColor = false;
@@ -263,9 +263,9 @@
             this.lblNombre.ForeColor = System.Drawing.Color.Black;
             this.lblNombre.Location = new System.Drawing.Point(187, 103);
             this.lblNombre.Name = "lblNombre";
-            this.lblNombre.Size = new System.Drawing.Size(91, 18);
+            this.lblNombre.Size = new System.Drawing.Size(56, 18);
             this.lblNombre.TabIndex = 56;
-            this.lblNombre.Text = "AP. PATERNO:";
+            this.lblNombre.Text = "Nombre";
             // 
             // FrmCuenta
             // 

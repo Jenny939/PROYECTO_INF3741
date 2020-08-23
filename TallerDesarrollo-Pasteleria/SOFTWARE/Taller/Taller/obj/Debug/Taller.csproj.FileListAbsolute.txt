@@ -317,6 +317,31 @@ C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria - copia\Taller\Taller\o
 C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria - copia\Taller\Taller\obj\Debug\Taller.Vista.MdiAdministrador.resources
 C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria - copia\Taller\Taller\obj\Debug\Taller.Vista.MdiOperador.resources
 C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria - copia\Taller\Taller\obj\Debug\Taller.csproj.GenerateResource.Cache
-C:\Desarrollo\TallerDesarrollo-Pasteleria\SOFTWARE\Taller\Taller\bin\Debug\Taller.exe.config
-C:\Desarrollo\TallerDesarrollo-Pasteleria\SOFTWARE\Taller\Taller\obj\Debug\Taller.exe
-C:\Desarrollo\TallerDesarrollo-Pasteleria\SOFTWARE\Taller\Taller\obj\Debug\Taller.pdb
+C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria-TallerDesarrollo\Taller\Taller\bin\Debug\Taller.exe.config
+C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria-TallerDesarrollo\Taller\Taller\obj\Debug\Taller.exe
+C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria-TallerDesarrollo\Taller\Taller\obj\Debug\Taller.pdb
+C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria-TallerDesarrollo\Taller\Taller\bin\Debug\Taller.exe
+C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria-TallerDesarrollo\Taller\Taller\bin\Debug\Taller.pdb
+C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria-TallerDesarrollo\Taller\Taller\bin\Debug\EntityFramework.dll
+C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria-TallerDesarrollo\Taller\Taller\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria-TallerDesarrollo\Taller\Taller\bin\Debug\EntityFramework.xml
+C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria-TallerDesarrollo\Taller\Taller\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria-TallerDesarrollo\Taller\Taller\obj\Debug\Taller.csprojResolveAssemblyReference.cache
+C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria-TallerDesarrollo\Taller\Taller\obj\Debug\Taller.Vista.FrmCambiarPass.resources
+C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria-TallerDesarrollo\Taller\Taller\obj\Debug\Taller.Vista.FrmCliente.resources
+C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria-TallerDesarrollo\Taller\Taller\obj\Debug\Taller.Vista.FrmCuenta.resources
+C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria-TallerDesarrollo\Taller\Taller\obj\Debug\Taller.Vista.FrmFactura.resources
+C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria-TallerDesarrollo\Taller\Taller\obj\Debug\Taller.Vista.FrmModificarCliente.resources
+C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria-TallerDesarrollo\Taller\Taller\obj\Debug\Taller.Vista.FrmModificarProducto.resources
+C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria-TallerDesarrollo\Taller\Taller\obj\Debug\Taller.Vista.FrmModificarUsuario.resources
+C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria-TallerDesarrollo\Taller\Taller\obj\Debug\Taller.FrmPrincipal.resources
+C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria-TallerDesarrollo\Taller\Taller\obj\Debug\Taller.Properties.Resources.resources
+C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria-TallerDesarrollo\Taller\Taller\obj\Debug\Taller.Vista.FrmProducto.resources
+C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria-TallerDesarrollo\Taller\Taller\obj\Debug\Taller.Vista.FrmReportesAdministrador.resources
+C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria-TallerDesarrollo\Taller\Taller\obj\Debug\Taller.Vista.FrmReportesOperador.resources
+C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria-TallerDesarrollo\Taller\Taller\obj\Debug\Taller.Vista.FrmReservaciones.resources
+C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria-TallerDesarrollo\Taller\Taller\obj\Debug\Taller.Vista.FrmUsuario.resources
+C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria-TallerDesarrollo\Taller\Taller\obj\Debug\Taller.Vista.FrmVenta.resources
+C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria-TallerDesarrollo\Taller\Taller\obj\Debug\Taller.Vista.MdiAdministrador.resources
+C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria-TallerDesarrollo\Taller\Taller\obj\Debug\Taller.Vista.MdiOperador.resources
+C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria-TallerDesarrollo\Taller\Taller\obj\Debug\Taller.csproj.GenerateResource.Cache

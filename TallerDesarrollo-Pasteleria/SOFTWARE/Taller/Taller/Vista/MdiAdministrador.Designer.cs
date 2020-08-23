@@ -54,7 +54,7 @@
             this.flowLayoutPanel1.ForeColor = System.Drawing.Color.Black;
             this.flowLayoutPanel1.Location = new System.Drawing.Point(0, 0);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
-            this.flowLayoutPanel1.Size = new System.Drawing.Size(953, 46);
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(923, 46);
             this.flowLayoutPanel1.TabIndex = 1;
             // 
             // pictureBox1
@@ -146,9 +146,10 @@
             this.panelContenedor.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
             this.panelContenedor.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panelContenedor.BackgroundImage")));
             this.panelContenedor.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.panelContenedor.Location = new System.Drawing.Point(0, 45);
+            this.panelContenedor.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panelContenedor.Location = new System.Drawing.Point(0, 46);
             this.panelContenedor.Name = "panelContenedor";
-            this.panelContenedor.Size = new System.Drawing.Size(953, 573);
+            this.panelContenedor.Size = new System.Drawing.Size(923, 572);
             this.panelContenedor.TabIndex = 2;
             this.panelContenedor.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
@@ -157,7 +158,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
-            this.ClientSize = new System.Drawing.Size(953, 618);
+            this.ClientSize = new System.Drawing.Size(923, 618);
             this.Controls.Add(this.panelContenedor);
             this.Controls.Add(this.flowLayoutPanel1);
             this.IsMdiContainer = true;

@@ -190,7 +190,7 @@
             // 
             // dgProductos
             // 
-            this.dgProductos.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(215)))), ((int)(((byte)(252)))));
+            this.dgProductos.BackgroundColor = System.Drawing.Color.White;
             this.dgProductos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgProductos.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dgProductos.Location = new System.Drawing.Point(3, 4);
@@ -204,7 +204,7 @@
             // 
             // dgDetalle
             // 
-            this.dgDetalle.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(215)))), ((int)(((byte)(252)))));
+            this.dgDetalle.BackgroundColor = System.Drawing.Color.White;
             this.dgDetalle.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgDetalle.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.id,
