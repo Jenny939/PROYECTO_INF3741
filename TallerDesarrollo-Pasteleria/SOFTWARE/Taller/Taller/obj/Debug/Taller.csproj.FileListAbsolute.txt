@@ -345,3 +345,6 @@ C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria-TallerDesarrollo\Taller
 C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria-TallerDesarrollo\Taller\Taller\obj\Debug\Taller.Vista.MdiAdministrador.resources
 C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria-TallerDesarrollo\Taller\Taller\obj\Debug\Taller.Vista.MdiOperador.resources
 C:\Users\ctech\Desktop\SISTEMA DE INFORMACION\Pasteleria-TallerDesarrollo\Taller\Taller\obj\Debug\Taller.csproj.GenerateResource.Cache
+C:\Desarrollo\TallerDesarrollo-Pasteleria\SOFTWARE\Taller\Taller\bin\Debug\Taller.exe.config
+C:\Desarrollo\TallerDesarrollo-Pasteleria\SOFTWARE\Taller\Taller\obj\Debug\Taller.exe
+C:\Desarrollo\TallerDesarrollo-Pasteleria\SOFTWARE\Taller\Taller\obj\Debug\Taller.pdb
